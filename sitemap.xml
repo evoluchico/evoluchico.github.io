@@ -4,7 +4,95 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/post/</loc>
+      <loc>/news/</loc>
+      <lastmod>2018-09-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-08-27-volatility-attention-economy/</loc>
+      <lastmod>2018-08-27T17:45:28+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2018-08-21-public-engagement/</loc>
+      <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-07-20-physics-evolution-book-review/</loc>
+      <lastmod>2018-07-16T17:45:28+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2018-06-28-mpls-awards/</loc>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2018-06-15-blablalogia-oxtalent/</loc>
+      <lastmod>2018-06-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2018-06-15-blablalogia-oxford/</loc>
+      <lastmod>2018-06-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-05-22-parameter-function-map/</loc>
+      <lastmod>2018-05-02T17:45:28+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-02-22-simplicity-bias/</loc>
+      <lastmod>2018-02-02T17:45:28+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2018-01-31-iop-award/</loc>
+      <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/news/2017-11-02-shortlisted-iop/</loc>
+      <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +100,7 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +108,7 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,8 +116,8 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-02-02T17:45:28+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -37,7 +125,8 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/categories/</loc>
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-08-27T17:45:28+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,7 +134,8 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/publication_types/</loc>
+      <loc>/publication_types/7/</loc>
+      <lastmod>2018-07-16T17:45:28+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,7 +143,33 @@
     
     <url>
     
-      <loc>https://evoluchico.github.io/tags/</loc>
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-09-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-02-02T17:45:28+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     

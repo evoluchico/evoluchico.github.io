@@ -1,142 +1,173 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
-    <link>https://evoluchico.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <title>Homes on Chico Q. Camargo</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Chico Q. Camargo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://evoluchico.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://evoluchico.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/hero_carousel/</guid>
+      <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://evoluchico.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/about/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://evoluchico.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://evoluchico.github.io/home/skills/</guid>
-      <description></description>
+      <guid>/home/about/</guid>
+      <description>Hi, I&amp;rsquo;m Chico! I&amp;rsquo;m a Postdoctoral Researcher in Data Science at the Oxford Internet Institute, University of Oxford. I develop and apply computational tools to study collective human behaviour, focusing on public opinion dynamics, cultural evolution and urban mobility.
+I graduated with a BSc from the University of São Paulo, as part of the Molecular Sciences Programme, and later worked on mathematical modelling in biology at the Wolfson Centre for Mathematical Biology, and at the Department of Zoology, University of Oxford.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://evoluchico.github.io/home/experience/</link>
+      <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evoluchico.github.io/home/experience/</guid>
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://evoluchico.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/publications_selected/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://evoluchico.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title></title>
+      <link>/home/skills/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/publications/</guid>
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://evoluchico.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/news_selected/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/talks_selected/</guid>
+      <guid>/home/news_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://evoluchico.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/talks/</guid>
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/home/news/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://evoluchico.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/posts/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://evoluchico.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Research</title>
+      <link>/home/projects/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/home/cv/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/home/cv/</guid>
+      <description>Education  D.Phil. (PhD) in Systems Biology, Brasenose College, University of Oxford, 2018
+ Thesis title: Genotype-phenotype maps for gene networks: from evolution to computation  BSc., Molecular Sciences Programme, University of São Paulo, 2013
+  Academic Appointments  2018-present: Postdoctoral Researcher in Data Science, Oxford Internet Institute, University of Oxford
+ 2017-2018: Research Assistant in Complex Networks, Oxford Internet Institute, University of Oxford
+  Awards and Scholarships  2017: Finalist at the IOP Early Career Physics Communicator Award, Institute of Physics 2017: Hulme Completion Grant, Brasenose College, University of Oxford 2017: Vice-Chancellor&amp;rsquo;s Public Engagement with Research Award, University of Oxford 2017: First prize in the SocialHumanities Datahack, University of Oxford 2016: YouTube NextUP Award for BláBláLogia 2016: Senior Hulme Scholarship, Brasenose College, University of Oxford 2015: Public Engagement Award, DTC, University of Oxford 2015: PhD Symposium Best Short Talk Award, EMBL Heidelberg 2015: PhD Symposium Travel Award, EMBL Heidelberg 2015: Summer Research Course Award, Kavli Institute for Theoretical Physics, UCSB 2013-17: Clarendon Fund Scholarship Award, University of Oxford, awarded to top 2% graduates 2013: Undergraduate Research Scholarship, University of São Paulo 2012-13: Silver medal, iGEM Competition, USP-UNESP Team 2011-12: Undergraduate Research Scholarship, FAPESP, Brazil  Publications {% for post in site.</description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>https://evoluchico.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/teaching/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://evoluchico.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      <link>/home/tags/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://evoluchico.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
+      <link>/home/search/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/search/</guid>
+      <guid>/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://evoluchico.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/home/contact/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://evoluchico.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
