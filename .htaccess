@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule evoluchico\.github\.io /camargo\.cool [QSA,L]
