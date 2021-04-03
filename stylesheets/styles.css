@@ -303,3 +303,26 @@ a.name
 {
    margin:0px;
 }
+
+@media only screen and (max-width: 600px) { 
+
+  section {
+    border-width:0px 0;
+  }
+
+  .masthead__menu-item {
+    float: left;
+    margin-bottom: 0.4em;
+    margin-left: 0.1em;
+  }
+
+  .masthead__menu-item a {
+    margin: 0.4em;
+  }
+
+  .greedy-nav .visible-links {
+    display: block;
+    flex-flow: row wrap;
+  }
+
+}
